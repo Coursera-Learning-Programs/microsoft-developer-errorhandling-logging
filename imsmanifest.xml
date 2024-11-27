@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6ktRoYsmFgO" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Implementing and Testing Error Handling 
+and Logging in ASP.NET Core</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Implementing_and_Testing_Error_Handling_
+and_Logging_in_ASP.NET_Core_ORG">
+    <organization identifier="Implementing_and_Testing_Error_Handling_
+and_Logging_in_ASP.NET_Core_ORG">
+      <title>Implementing and Testing Error Handling 
+and Logging in ASP.NET Core</title>
+      <item identifier="Protecting_a_device_with_Malwarebytes_SCO" isvisible="true" identifierref="__6ktRoYsmFgO_RES">
+        <title>Implementing and Testing Error Handling 
+and Logging in ASP.NET Core</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6ktRoYsmFgO_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6C1O6MoB7Lr.png" />
+      <file href="mobile/6Q7YNtf3gaq.jpg" />
+      <file href="mobile/6pnF39Qe3Cb.jpg" />
+      <file href="mobile/6EkYSiV3CUP.jpg" />
+      <file href="mobile/5c3A7igFMsm.jpg" />
+      <file href="mobile/6PSjJ4JCfbU.jpg" />
+      <file href="mobile/6SglPKSD521.jpg" />
+      <file href="mobile/6fuAIUaySmR.jpg" />
+      <file href="mobile/6Q9v2QHxZEx.jpg" />
+      <file href="mobile/6V2IWElmYcB.jpg" />
+      <file href="mobile/6rbOLLN9dQI.jpg" />
+      <file href="mobile/5t5MDJGbKKn.jpg" />
+      <file href="mobile/6lWkF5VhQmb.jpg" />
+      <file href="mobile/60QAo0ucsWg.jpg" />
+      <file href="mobile/5sBwbG3rgl2.jpg" />
+      <file href="mobile/5eKmNsaD6ho.jpg" />
+      <file href="mobile/6D2hGkZOG0F.png" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5a1ukUn648o.js" />
+      <file href="html5/data/js/5d9U2RBjDLg.js" />
+      <file href="html5/data/js/5duBcwvBsOb.js" />
+      <file href="html5/data/js/5fBscf88g62.js" />
+      <file href="html5/data/js/5hbPqbMmjVr.js" />
+      <file href="html5/data/js/5hc68LcARnK.js" />
+      <file href="html5/data/js/5nD9WnMXSmU.js" />
+      <file href="html5/data/js/5stg8QQD9Sr.js" />
+      <file href="html5/data/js/5tquLstPNl9.js" />
+      <file href="html5/data/js/5uOOoPTpaeM.js" />
+      <file href="html5/data/js/5VO6TFxFi7Z.js" />
+      <file href="html5/data/js/5wxk9l3IaiE.js" />
+      <file href="html5/data/js/5yvLprTY78o.js" />
+      <file href="html5/data/js/65rNyt0Gzx1.js" />
+      <file href="html5/data/js/68yz2Q7RX0M.js" />
+      <file href="html5/data/js/6aEAfQa4pcw.js" />
+      <file href="html5/data/js/6BzrpQRMZq7.js" />
+      <file href="html5/data/js/6jnePCj0x9e.js" />
+      <file href="html5/data/js/6P4JTlz943o.js" />
+      <file href="html5/data/js/6Ue22xWBjtJ.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
